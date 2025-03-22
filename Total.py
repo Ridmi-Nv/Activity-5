@@ -6,3 +6,4 @@ Avg = (X+Y)/2
 
 print("Total is ", Z)
 print("Avg is", Avg)
+
